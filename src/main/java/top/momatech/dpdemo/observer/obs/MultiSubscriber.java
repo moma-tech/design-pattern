@@ -5,7 +5,6 @@ import top.momatech.dpdemo.observer.Subscriber;
 /**
  * MultiSubscriber
  *
- * <p>//TODO
  *
  * @author ivan
  * @version 1.0 Created by ivan at 2/26/21.
