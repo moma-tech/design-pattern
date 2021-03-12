@@ -11,6 +11,6 @@ public class Client {
     OperationTemplate operation = new AddOperation();
     operation.calculate(123, 456);
     operation = new MinusOperation();
-    operation.calculate(456, 123);
+    operation.calculate(123, 456);
   }
 }
